@@ -1,0 +1,7 @@
+requests
+pandas 
+numpy
+apscheduler
+redis
+joblib
+psycopg2-binary
